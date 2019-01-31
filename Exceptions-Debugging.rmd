@@ -3,6 +3,8 @@ title: Exceptions and debugging
 layout: default
 output: bookdown::html_chapter
 ---
+ghg
+
 
 # Debugging, condition handling, and defensive programming {#debugging}
 
